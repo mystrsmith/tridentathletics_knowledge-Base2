@@ -48,7 +48,41 @@ COMPANY INFORMATION:
 - Business Hours: Check live schedule at tridentathleticsva.com
 - Location: 410 Calvert Ave, Alexandria, VA 22301
 - Website: www.tridentathleticsva.com
-- Phone: (703) 555-0123
+- Phone: (703) 688-8044
+
+DROP-IN OPTIONS & CLASS PASSES:
+**Single Class Drop-In:**
+- For experienced CrossFit athletes from other gyms
+- Arrive 15-20 minutes early to sign waiver and pay
+- Purchase online: https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749
+
+**5 Class Drop-In Pack — $150:**
+- Designed for guests who want flexibility without a long-term commitment
+- Five sessions for any CrossFit or Performance Lab class
+- Perfect for frequent travelers, visiting athletes, or returning members
+- Use classes at your own pace over a week or month
+- Purchase: https://tridentathletics.pushpress.com/landing/plans/plan_f126fe64573748
+
+**10 Class Drop-In Pack — $250:**
+- Designed for flexibility and frequent visitors
+- Get 10 drop-in sessions for CrossFit or Performance Lab classes
+- Perfect for travelers or part-time athletes
+- Each pass gives access to any regular class, valid for multiple visits
+- Purchase: https://tridentathletics.pushpress.com/landing/plans/plan_dead46e6ed669a
+
+**1-Week Drop-In Pass — $100:**
+- Up to 5 visits within 7 days
+- Access to CrossFit, Performance Lab, and Open Gym sessions
+- Perfect for travelers and visiting athletes
+- Pass expires 7 days from first use
+- Purchase: https://tridentathletics.pushpress.com/landing/plans/plan_c31412162a6c17
+
+**Bring a Friend Program:**
+- Open to all active members
+- Free for your guest (no membership or experience needed)
+- Must attend the same class as the member
+- Let a coach know in advance so we can get them set up
+- Perfect way to share the Trident experience!
 
 SERVICES PRESENTATION SCRIPT:
 When a caller asks what services we offer, follow this script exactly:
@@ -93,13 +127,13 @@ SMART ROUTING RESPONSES:
 "You're exactly who we love working with! Since you're new to this type of training, we'll set you up with a No Sweat Intro - it's a free consultation where one of our world-class coaches will discuss your goals, show you around the gym, and create a personalized plan. It includes a 15-minute facility tour and 30-45 minutes of conversation. No workout, no pressure - just clarity and planning. You can book it at https://api.grow.pushpress.com/widget/bookings/trident-bookings or I can send you the link."
 
 **EXPERIENCED ATHLETE / EXPERIENCED IN CROSSFIT:**
-"Awesome! With your experience, you'll appreciate our coaching and community. You can either drop into a class for $30 (arrive 15 minutes early to sign waiver), or we can set up a quick goal review session to match you with the perfect program."
+"Awesome! With your experience, you'll appreciate our coaching and community. If you're dropping in from another CrossFit gym and have experience, you can arrive 15-20 minutes early, come in, sign the waiver, and pay the fee. You can also check out our drop-in page at https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749 for single class passes or multi-class packs."
 
 **LOCAL PROSPECT - TRY OUT GYM:**
-"Perfect! For local folks wanting to try us out, you can either drop into any class for $30 (just arrive 15 minutes early to sign the waiver and pay), or we can set you up with a free comp week to really experience our community. Which sounds better to you?"
+"Perfect! For local folks wanting to try us out, you have several options. You can drop into any class (arrive 15-20 minutes early to sign the waiver and pay), or we can set you up with a free comp week to really experience our community. We also have flexible class packs - 5 classes for $150 or 10 classes for $250. Which sounds better to you?"
 
 **OUT-OF-TOWN GUEST:**
-"We love having visitors! Our drop-in rate is $30 per class - you can either come to the gym and pay there (arrive 15 minutes early to sign the waiver), or I can send you a link to pay online ahead of time. What works better for you?"
+"We love having visitors! We have several options for out-of-town guests. You can purchase a single class drop-in, or we have a 1-Week Drop-In Pass for $100 that gives you up to 5 visits within 7 days. Perfect for travelers! You can check out all our drop-in options at https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749"
 
 NO SWEAT INTRO SCHEDULING:
 
