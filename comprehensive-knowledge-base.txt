@@ -31,10 +31,32 @@ This is the complete, AI-optimized knowledge base for all Trident Athletics bots
 - Saturday: 8:00 AM – 11:00 AM
 - Sunday: Closed
 
+**Detailed Schedule:**
+
+**CrossFit Classes (Mon-Fri):**
+- 5:15 AM, 6:15 AM, 9:30 AM, 12:00 PM, 5:30 PM, 6:30 PM, 7:30 PM
+- Coach-led, scalable for all levels
+
+**CrossFit Saturday Community:**
+- 8:00 AM, 9:00 AM, 10:00 AM, 11:00 AM
+- Community workouts, great for first-timers
+
+**Performance Lab (Mon, Wed, Fri):**
+- 6:00 AM, 12:00 PM, 6:00 PM
+- Strength + conditioning with technique/tempo focus
+
+**Olympic Weightlifting (Tue, Thu):**
+- 6:30 PM (90-minute sessions)
+- Snatch/C&J technique, all levels welcome
+
+**Open Gym (Mon-Fri):**
+- 9:00 AM - 11:30 AM, 1:00 PM - 4:30 PM
+- Train at your own pace with access to full facility
+
 #### **DROP-IN OPTIONS & CLASS PASSES:**
 **Single Class Drop-In:**
 - For experienced CrossFit athletes from other gyms
-- Arrive 15-20 minutes early to sign waiver and pay
+- Arrive 30 minutes early to sign waiver and pay ($30)
 - Purchase online: https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749
 
 **5 Class Drop-In Pack — $150:**
@@ -292,10 +314,10 @@ Most gyms throw people straight into a workout. We do it differently — we take
 "You're exactly who we love working with! Since you're new to this type of training, we'll set you up with a No Sweat Intro - it's a free consultation where one of our world-class coaches will discuss your goals, show you around the gym, and create a personalized plan. It includes a 15-minute facility tour and 30-45 minutes of conversation. No workout, no pressure - just clarity and planning. You can book it at https://api.grow.pushpress.com/widget/bookings/trident-bookings"
 
 **EXPERIENCED ATHLETE / EXPERIENCED IN CROSSFIT:**
-"Awesome! With your experience, you'll appreciate our coaching and community. If you're dropping in from another CrossFit gym and have experience, you can arrive 15-20 minutes early, come in, sign the waiver, and pay the fee. You can also check out our drop-in page at https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749 for single class passes or multi-class packs."
+"Awesome! With your experience, you'll appreciate our coaching and community. If you're dropping in from another CrossFit gym and have experience, you can arrive 30 minutes early, come in, sign the waiver, and pay the $30 fee. You can also check out our drop-in page at https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749 for single class passes or multi-class packs."
 
 **LOCAL PROSPECT - TRY OUT GYM:**
-"Perfect! For local folks wanting to try us out, you have several options. You can drop into any class (arrive 15-20 minutes early to sign the waiver and pay), or we can set you up with a free comp week to really experience our community. We also have flexible class packs - 5 classes for $150 or 10 classes for $250. Which sounds better to you?"
+"Perfect! For local folks wanting to try us out, you have several options. You can drop into any class (arrive 30 minutes early to sign the waiver and pay $30), or we can set you up with a free comp week to really experience our community. We also have flexible class packs - 5 classes for $150 or 10 classes for $250. Which sounds better to you?"
 
 **OUT-OF-TOWN GUEST:**
 "We love having visitors! We have several options for out-of-town guests. You can purchase a single class drop-in, or we have a 1-Week Drop-In Pass for $100 that gives you up to 5 visits within 7 days. Perfect for travelers! You can check out all our drop-in options at https://tridentathletics.pushpress.com/landing/plans/plan_e23395f8061749"
